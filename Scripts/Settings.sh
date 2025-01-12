@@ -83,3 +83,7 @@ echo "CONFIG_PACKAGE_curl=y" >> ./.config
 # echo "CONFIG_DEFAULT_tcp_bbr=y" >> ./.config
 # docker(只能集成)
 echo "CONFIG_PACKAGE_luci-app-dockerman=y" >> ./.config
+echo "CONFIG_PACKAGE_luci-app-mihomo=y" >> ./.config
+echo "CONFIG_PACKAGE_luci-app-unblockmusic=y" >> ./.config
+echo "CONFIG_PACKAGE_luci-app-gecoosac=y" >> ./.config
+echo "CONFIG_PACKAGE_CONFIG_PACKAGE_luci-app-vlmcsd=y" >> ./.config
